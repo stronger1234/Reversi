@@ -1,5 +1,7 @@
 ﻿# Reversi
 
+![](Preview.png)
+
 这是一个基于 OpenGL 和 Windows API 制作的一款简单的黑白棋游戏。
 
 支持以下模式：
