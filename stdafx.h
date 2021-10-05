@@ -19,7 +19,6 @@
 
 
 // TODO:  在此处引用程序需要的其他头文件
-#include <GL/glew.h>
 #include <gl/GL.h>
 #include <gl/GLU.h>
 #include <windowsx.h>
