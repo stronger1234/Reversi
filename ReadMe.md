@@ -1,8 +1,8 @@
 ﻿# Reversi
 
-![](Preview.png)
+这是一款简单的基于 OpenGL 和 Windows API 制作的三维黑白棋游戏。
 
-这是一个基于 OpenGL 和 Windows API 制作的一款简单的黑白棋游戏。
+![](Preview.png)
 
 支持以下模式：
 - 玩家 vs 电脑（对战一个简单的 AI）
